@@ -20,3 +20,4 @@ int main()
     printf("%d %d",sum,avg);
     return 0;
 }
+ 
